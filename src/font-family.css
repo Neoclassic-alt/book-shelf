@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-Bold.eot');
+    src: local('assets/fonts/Tisa Sans Pro Bold'), local('assets/fonts/TisaSansPro-Bold'),
+        url('assets/fonts/TisaSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-Bold.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-Bold.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-BoldItalic.eot');
+    src: local('Tisa Sans Pro Bold Italic'), local('assets/fonts/TisaSansPro-BoldItalic'),
+        url('assets/fonts/TisaSansPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-BoldItalic.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-BoldItalic.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-LightItalic.eot');
+    src: local('assets/fonts/Tisa Sans Pro Light Italic'), local('assets/fonts/TisaSansPro-LightItalic'),
+        url('assets/fonts/TisaSansPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-LightItalic.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-LightItalic.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-Black.eot');
+    src: local('assets/fonts/Tisa Sans Pro Black'), local('assets/fonts/TisaSansPro-Black'),
+        url('assets/fonts/TisaSansPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-Black.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-Black.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-Regular.eot');
+    src: local('assets/fonts/Tisa Sans Pro Regular'), local('assets/fonts/TisaSansPro-Regular'),
+        url('assets/fonts/TisaSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-Regular.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-Regular.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-Light.eot');
+    src: local('assets/fonts/Tisa Sans Pro Light'), local('assets/fonts/TisaSansPro-Light'),
+        url('assets/fonts/TisaSansPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-Light.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-Light.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tisa Sans Pro';
+    src: url('assets/fonts/TisaSansPro-Italic.eot');
+    src: local('assets/fonts/Tisa Sans Pro Italic'), local('assets/fonts/TisaSansPro-Italic'),
+        url('assets/fonts/TisaSansPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/TisaSansPro-Italic.woff2') format('woff2'),
+        url('assets/fonts/TisaSansPro-Italic.woff') format('woff'),
+        url('assets/fonts/TisaSansPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
